@@ -206,6 +206,11 @@ Investigate director or cast trends in 1990s Netflix movies.
 
 Feel free to fork this repository and submit pull requests for additional analyses or improvements. Please ensure any new code follows the existing structure and includes clear comments.
 
-License
+# Example Results:
+<img width="1132" height="911" alt="image" src="https://github.com/user-attachments/assets/6184d13b-9519-4ce7-90a7-74d5126997dd" />
+
+
+
+**License**
 
 This project is licensed under the MIT License.
